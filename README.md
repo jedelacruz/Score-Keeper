@@ -8,3 +8,4 @@ if player1 is the winner viceversa you can reset it
 ![image](https://github.com/jedelacruz/Score-Keeper/assets/93860350/c12402c4-e83b-42de-8c7a-05fceae12527)
 
 that's it??? thank u!
+https://jedelacruz.github.io/Score-Keeper/
